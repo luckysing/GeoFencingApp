@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0",
+    "lat": 37.3316531,
+    "lon": -122.0315228,
+    "radius": 200,
+    "name": "Apple Computer"
+  },
+  {
+    "id": "1",
+    "lat": -33.8631941,
+    "lon": 151.2115295,
+    "radius": 200,
+    "name": "Museum of Sydney"
+  }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoFencingApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="base_url">http://arvinder.mock.com/</string>
+</resources>
